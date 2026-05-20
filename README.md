@@ -1,0 +1,1 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9ce4ae11ef574578a6ef466de3145a86)](https://app.codacy.com/gh/mikitaglv/weather-app-demo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
